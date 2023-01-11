@@ -130,6 +130,12 @@
    top:37%;
    
    }
+   .right img{
+    position: absolute;
+    right: 95%;
+    height: 300px;
+    width: 300px;
+   }
 
 
 
